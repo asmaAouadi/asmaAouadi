@@ -42,7 +42,8 @@ I enjoy exploring technologies, building real-world projects, and constantly pus
 
 ## 📸 Projects
 
-🚧 *(Coming soon — HR Management System, UML Tools, AI Agents, and more!)*
+<img width="929" height="456" alt="image" src="https://github.com/user-attachments/assets/3838e0d0-5b0a-4cf0-9bb4-cc5c585c1269" />
+
 
 ---
 
