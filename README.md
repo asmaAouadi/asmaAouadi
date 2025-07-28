@@ -44,7 +44,8 @@ I enjoy exploring technologies, building real-world projects, and constantly pus
 
 # YOUTUBE ANALYZER (NOT PUBLISHED YET)
 <img width="929" height="456" alt="image" src="https://github.com/user-attachments/assets/3838e0d0-5b0a-4cf0-9bb4-cc5c585c1269" />
-# CV AGENT 
+
+# CV AGENT (PUBLISHED)
 <img width="1827" height="849" alt="image" src="https://github.com/user-attachments/assets/5e989fb6-4978-4a57-81c7-9cc68ad20b67" />
 
 
