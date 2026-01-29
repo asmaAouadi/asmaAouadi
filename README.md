@@ -21,7 +21,7 @@
 
 - 📧 Email: [aouadiasma281@gmail.com](mailto:aouadiasma281@gmail.com)
 - 💼 LinkedIn: *(Will add soon)*
-- 🌐 Portfolio: [here](https://morena-dev.netlify.app/)
+- 🌐 Portfolio: 
 
 ---
 
