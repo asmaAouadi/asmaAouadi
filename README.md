@@ -13,7 +13,6 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge)
 
 
----
 
 ---
 
