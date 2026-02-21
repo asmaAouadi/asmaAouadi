@@ -1,7 +1,7 @@
 # 👋 Hi, I'm AOUADI Asma!
 
-### Computer Vision Student & Software engineer
-
+### Software engineer 
+### currecnt course: Computer Vision  
 ---
 
 
