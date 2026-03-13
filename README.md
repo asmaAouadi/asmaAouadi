@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Morena from Algeria <br><br>-  - I'm working as fullstack dev with software engineering experience.<br>-  I'm currently learning Computer vision and AI<br>-  In my free time I just Code XD</p>
+<p align="left">I'm Morena from Algeria <br><br>- I'm working as fullstack dev with software engineering experience.<br>-  I'm currently learning Computer vision and AI<br>-  In my free time I just Code XD</p>
 
 ###
 
