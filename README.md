@@ -132,6 +132,4 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaaouadi&show_icons=true&locale=en&layout=compact" alt="asmaaouadi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaaouadi&" alt="asmaaouadi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaaouadi&theme=dark" alt="asmaaouadi" /></p>
