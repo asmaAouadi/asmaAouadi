@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Morena Asma AOUADI</h1>
 <h3 align="center">Full-Stack Dev and Computer Vision Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaaouadi&label=Profile%20views&color=0e75b6&style=flat" alt="asmaaouadi" /> </p>
+
 
 - 🔭 Currently working on [ColocDZ](colocdz.com)
 - 📫 Reach me at **morenadev22@gmail.com**
