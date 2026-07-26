@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Currently working on [ColocDZ]([colocdz.com](https://colocdz.com/))
+- 🔭 Currently working on [colocdz.com](https://colocdz.com/))
 - 📫 Reach me at **morenadev22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
